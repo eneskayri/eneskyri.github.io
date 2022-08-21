@@ -1,0 +1,26 @@
+html{
+    color: #000000;
+}
+#navbar{
+    background-color:#184874;
+    opacity: 0.7;
+}
+#box{
+    margin: auto;
+}
+
+  
+.cvLinks{
+    text-decoration: none;
+    color: white;
+  }
+
+  .cvLinks:hover{
+    color: white;
+    text-decoration: none;
+  }
+
+  #repos{
+      text-decoration: none;
+      color: white;
+  }

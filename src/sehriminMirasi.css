@@ -1,0 +1,14 @@
+#navbar{
+    background-color:#184874;
+    opacity: 0.7;
+}
+#ref{
+    background-color: #bed9e9 ;
+}
+#box{
+    margin: auto;
+}
+#description{
+    display: block;
+    word-wrap: break-word;
+}
