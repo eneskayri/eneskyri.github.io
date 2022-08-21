@@ -1,0 +1,26 @@
+# Web Teknolojileri Projesi
+b191210386
+ENES KAYRİ
+### Proje Amacı:
+Bu repository _Sakarya Üniversitesi_ bilgisayar mühendisliği ***Web Teknolojileri*** dersi projesinin paylaşılması amacıyla oluşturulmuştur.Kodlarda eksik, hatalı gördüğünüz ve yardım etmek istediğiniz noktalar için benimle iletişime geçebilirsiniz.
+
+### Projede Kullanılacak teknolojiler:
++ HTML
++ CSS
++ PHP
++ Javascript
++ Bootstrap
+
+### Proje Detayları:
+  Bu projede amaç yukarıdaki bahsi geçen teknolojilerdeki tecrübemi arttırmak amacıyla kişisel web sitesi yapılmasıdır.Söz konusu sitede giriş niteliğinde kendimi tanıttığım bir ***hakkımda*** sayfası , cv niteliğinde ***eğitim*** sayfası , memleketim olan _[Elazığ](https://www.elazig.bel.tr)_'ın nüfusu, ünlülüeri, gezilecek yerleri gibi özelliklerini anlatan ve sayfa başında slider ile anlatılan konular hakkında grafikler ve resimler bulunacağı ***şehrim*** sayfası , _Elazığ_'ın kültürel mirasını anlatan ve tüm _HTML_ elemanlarını içeren ***mirasımız*** sayfası , _PHP_ ile girilen şifre kullanıcı adı gibi değişkenleri _[regex](https://tr.wikipedia.org/wiki/D%C3%BCzenli_ifade)_ ve _HTML5_ ile düzenleneceği ve  doğrulanınca bir ***admin*** sayfasına yönlendirileceği ***login*** sayfası bulunacaktır.
+
+Sayfalar arası geçiş bir navigasyon barı ile yapılacaktır.Site responsive yapıda olması planlanmaktadır .
+
+
+
+***
+enes kayri
+
+enes.kayri@ogr.sakarya.edu.tr
+
+
